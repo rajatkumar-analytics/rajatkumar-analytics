@@ -31,7 +31,7 @@
 - MIS Analyst
 - Business Intelligence Analyst
 - Reporting Analyst
-- Operation Analyst
+- Operations Analyst
 
 📍 Open to opportunities across India & UAE
 
