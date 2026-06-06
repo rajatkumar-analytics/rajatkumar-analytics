@@ -1,146 +1,16 @@
-<div align="center">
+ 
+ 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1d6b4e&height=120&section=header" width="100%"/>
-
-# 👋 Hi, I'm Rajat Kumar
-### 📊 Data Analyst · Excel · SQL · Power BI · Python
-
-<i>"I don't just build charts — I build clarity."</i>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatkumar9it/)
-[![GitHub](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatkumar-analytics)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatkumar3w@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1d6b4e?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)
-
-<img src="https://komarev.com/ghpvc/?username=rajatkumar-analytics&label=Profile+Views&color=1d6b4e&style=flat-square"/>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rajatkumar-analytics&show_icons=true&hide_border=true&title_color=1d6b4e&icon_color=1d6b4e&hide=contribs,prs" width="320"/>
-
-🎯 Data Analyst who transforms **raw data into business decisions** —
-not just charts, but clarity.
-
-2 years across **banking & customer operations** · Currently leveling up with
-**Gen AI + Data Analytics** at PW Skills.
-
-📍 Open to **Data Analyst · MIS Analyst · BI Analyst** roles — **PAN India & UAE**
-
-<br/><br/><br/>
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/><br/>
-      <b>Excel</b>
-    </td>
-    <td>
-      Advanced Excel · Pivot Tables · Power Query · VLOOKUP · XLOOKUP · INDEX-MATCH
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40"/><br/>
-      <b>SQL</b>
-    </td>
-    <td>
-      PostgreSQL · MySQL · Joins · Subqueries · CTEs · Window Functions · Aggregations · Query Optimization
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br/>
-      <b>Power BI</b>
-    </td>
-    <td>
-      DAX · Data Modeling · Interactive Dashboards · Drill-through Analysis
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/python--v1.png" width="40"/><br/>
-      <b>Python</b>
-    </td>
-    <td>
-      Pandas · NumPy · Data Cleaning · Exploratory Data Analysis (EDA)
-    </td>
-  </tr>
-</table>
-
----
-
-## 📂 Featured Projects
-
-<table>
-  <tr>
-    <td width="50">📊</td>
-    <td>
-      <b><a href="https://github.com/rajatkumar-analytics/Vrinda-Store-Sales-Analysis">Vrinda Store Annual Report 2022</a></b><br/>
-      <img src="https://img.icons8.com/color/20/microsoft-excel-2019--v1.png"/> Excel
-      <br/>Revenue trends · Demographic & regional analysis · Marketing insights
-    </td>
-  </tr>
-  <tr>
-    <td width="50">🏥</td>
-    <td>
-      <b><a href="https://github.com/rajatkumar-analytics/Hospital-Emergency-Room-Analysis">Hospital Emergency Room Dashboard</a></b><br/>
-      <img src="https://img.icons8.com/color/20/microsoft-excel-2019--v1.png"/> Excel · Power Query
-      <br/>Peak admission trends · Patient flow metrics · Operational efficiency
-    </td>
-  </tr>
-  <tr>
-    <td width="50">🛒</td>
-    <td>
-      <b><a href="https://github.com/rajatkumar-analytics/Ecommerce-Sales-Profit-Dashboard-Power-BI">E-commerce Sales Analysis Dashboard</a></b><br/>
-      <img src="https://img.icons8.com/color/20/power-bi.png"/> Power BI
-      <br/>10,000+ records · Sales, profit & AOV drill-downs · KPI tracking
-    </td>
-  </tr>
-  <tr>
-    <td width="50">🎵</td>
-    <td>
-      <b><a href="https://github.com/rajatkumar-analytics/Music-Store-Data-Analysis-SQL-">Digital Music Store Analysis</a></b><br/>
-      <img src="https://img.icons8.com/color/20/mysql-logo.png"/> SQL
-      <br/>CTEs · Window functions · Customer behavior · Sales performance
-    </td>
-  </tr>
-  <tr>
-    <td width="50">🛍️</td>
-    <td>
-      <b>Customer Purchase Behavior Analysis</b><br/>
-      <img src="https://img.icons8.com/color/20/python--v1.png"/> Python
-      <br/>EDA · Demographic & regional buying patterns · Category insights
-    </td>
-  </tr>
-</table>
-
----
-
-## 📜 Certifications
-
-![NIELIT](https://img.shields.io/badge/O'_Level-NIELIT-2d6a4f?style=flat-square)
-![Excel](https://img.shields.io/badge/Advanced_Excel-Skill_Course-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![MIS](https://img.shields.io/badge/MIS_%26_Dashboard_Expert-Skill_Course-0078d4?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-Skill_Course-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-Skill_Course-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Simplilearn](https://img.shields.io/badge/Data_Analytics-Simplilearn-ff6b35?style=flat-square)
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1d6b4e&height=100&section=footer" width="100%"/>
-
-📍 Noida &nbsp;·&nbsp; 💼 Open to Work &nbsp;·&nbsp; ✉️ rajatkumar3w@gmail.com
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatkumar9it/) [![Portfolio](https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatkumar-analytics) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatkumar3w@gmail.com) [![Resume](https://img.shields.io/badge/Resume-1d6b4e?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)  
+--- ## ðŸ‘¨â€ðŸ’» About Me I'm a **Data Analyst** with **1.5+ years of experience** in banking operations and customer data â€” specialising in translating messy datasets into dashboards that actually drive decisions. My background spans **HDFC Bank** (sales operations & KYC/AML compliance) and **Tech Mahindra** (MIS reporting & customer analytics), giving me a solid grounding in real-world data challenges â€” not just academic exercises. Currently deepening my expertise in **Generative AI + Data Analytics** at PW Skills. - ðŸ“ Based in **Noida, UP** â€” open to roles across **PAN India & UAE** - ðŸŽ¯ Targeting: **Data Analyst Â· MIS Analyst Â· BI Developer Â· Reporting Analyst** - ðŸš€ Actively building: **SQL + Power BI projects in banking & healthcare domains** - ðŸ“¬ Reach me at: **rajatkumar3w@gmail.com** 
+--- ## ðŸ› ï¸ Technical Skills 
+Tool	What I Do With It
+ Excel	Advanced formulas (VLOOKUP, XLOOKUP, INDEX-MATCH) Â· Pivot Tables Â· Power Query Â· Dynamic dashboards Â· KPI reporting
+ SQL	PostgreSQL & MySQL Â· Joins Â· CTEs Â· Window Functions Â· Subqueries Â· Aggregations Â· Query optimisation
+ Power BI	DAX measures Â· Data modelling Â· Interactive dashboards Â· Drill-through analysis Â· Business KPI visualisation
+ Python	Pandas Â· NumPy Â· Data cleaning & transformation Â· Exploratory Data Analysis (EDA) Â· Demographic segmentation
+--- ## ðŸ“‚ Featured Projects ### ðŸ’³ Credit Card Financial & Customer Analytics Dashboard > **SQL (PostgreSQL) + Power BI** End-to-end analytics pipeline delivering real-time revenue tracking and customer segmentation insights. - ðŸ“Œ Identified **$55M in revenue drivers** â€” 84% from Blue cards, 64% via swipe transactions - ðŸ“Œ Built customer segmentation model uncovering high-value cohorts - ðŸ“Œ Developed interactive Power BI dashboards with drill-through KPI analysis --- ### ðŸ¥ Hospital Emergency Room Analytics Dashboard > **Excel + Power Query** Operational analytics dashboard for monitoring ER patient flow and resource planning. - ðŸ“Œ Tracked peak admission windows, patient trends, and wait-time KPIs - ðŸ“Œ Built dynamic Pivot Table dashboards with slicers for real-time filtering - ðŸ“Œ Data cleaning pipeline ensured accuracy across 1,000s of patient records --- ### ðŸ›’ Customer Purchase Behavior Analysis > **Python (Pandas, NumPy)** EDA project uncovering demographic and regional purchase patterns from e-commerce data. - ðŸ“Œ Identified that **married women aged 26â€“35** from UP, Maharashtra & Karnataka show highest purchase intent - ðŸ“Œ Revealed top-performing categories: **Food, Clothing, Electronics** - ðŸ“Œ Delivered profession-based category preference breakdown for targeted marketing --- ### ðŸ“Š E-commerce Annual Sales Dashboard > **Advanced Excel** Revenue and customer analytics dashboard built for a retail business using Excel alone. - ðŸ“Œ Annual sales trend analysis with demographic & regional segmentation - ðŸ“Œ Interactive dashboard with Pivot Tables, slicers, and dynamic charts - ðŸ“Œ Actionable insights to guide sales and marketing strategy --- ### ðŸŽµ Digital Music Store Analysis > **SQL (PostgreSQL)** Complex multi-table query project analysing customer behaviour and sales performance. - ðŸ“Œ CTEs and Window Functions to rank top customers, tracks, and genres - ðŸ“Œ Surfaced revenue trends by region and customer lifetime value patterns --- ## ðŸ’¼ Work Experience ``` ðŸ¦ HDFC Bank â€” Officer, Sales Operations & Data Handling May 2025 â€“ Oct 2025 â””â”€ Sales data analysis Â· KYC/AML compliance Â· CRM data management Â· Lead conversion tracking ðŸ“ž Tech Mahindra â€” Associate, Customer Support (MIS & Reporting) Jan 2024 â€“ Mar 2025 â””â”€ MIS reporting Â· Excel data management Â· Trend analysis Â· 15% improvement in resolution efficiency ``` --- ## ðŸŽ“ Education & Certifications **B.Sc. Mathematics** â€” Dr. BR Ambedkar University, Agra *(2020â€“2023)* **Data Analytics with Gen AI** â€” PW Skills by Physics Wallah *(Sep 2025 â€“ Apr 2026)* 
+![NIELIT](https://img.shields.io/badge/O'_Level-NIELIT-2d6a4f?style=flat-square) ![Excel](https://img.shields.io/badge/Advanced_Excel-Certified-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Certified-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-Certified-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MIS](https://img.shields.io/badge/MIS_%26_Dashboard_Expert-Certified-0078d4?style=flat-square) --- ## ðŸ“ˆ GitHub Stats 
+ 
+--- 
+ **ðŸ“ Noida, UP  Â·  ðŸ’¼ Open to Work  Â·  âœ‰ï¸ rajatkumar3w@gmail.com** *"I don't just build charts â€” I build clarity."* 
