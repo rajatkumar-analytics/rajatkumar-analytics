@@ -1,16 +1,169 @@
- 
- 
+```markdown
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatkumar9it/) [![Portfolio](https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatkumar-analytics) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatkumar3w@gmail.com) [![Resume](https://img.shields.io/badge/Resume-1d6b4e?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)  
---- ## ðŸ‘¨â€ðŸ’» About Me I'm a **Data Analyst** with **1.5+ years of experience** in banking operations and customer data â€” specialising in translating messy datasets into dashboards that actually drive decisions. My background spans **HDFC Bank** (sales operations & KYC/AML compliance) and **Tech Mahindra** (MIS reporting & customer analytics), giving me a solid grounding in real-world data challenges â€” not just academic exercises. Currently deepening my expertise in **Generative AI + Data Analytics** at PW Skills. - ðŸ“ Based in **Noida, UP** â€” open to roles across **PAN India & UAE** - ðŸŽ¯ Targeting: **Data Analyst Â· MIS Analyst Â· BI Developer Â· Reporting Analyst** - ðŸš€ Actively building: **SQL + Power BI projects in banking & healthcare domains** - ðŸ“¬ Reach me at: **rajatkumar3w@gmail.com** 
---- ## ðŸ› ï¸ Technical Skills 
-Tool	What I Do With It
- Excel	Advanced formulas (VLOOKUP, XLOOKUP, INDEX-MATCH) Â· Pivot Tables Â· Power Query Â· Dynamic dashboards Â· KPI reporting
- SQL	PostgreSQL & MySQL Â· Joins Â· CTEs Â· Window Functions Â· Subqueries Â· Aggregations Â· Query optimisation
- Power BI	DAX measures Â· Data modelling Â· Interactive dashboards Â· Drill-through analysis Â· Business KPI visualisation
- Python	Pandas Â· NumPy Â· Data cleaning & transformation Â· Exploratory Data Analysis (EDA) Â· Demographic segmentation
---- ## ðŸ“‚ Featured Projects ### ðŸ’³ Credit Card Financial & Customer Analytics Dashboard > **SQL (PostgreSQL) + Power BI** End-to-end analytics pipeline delivering real-time revenue tracking and customer segmentation insights. - ðŸ“Œ Identified **$55M in revenue drivers** â€” 84% from Blue cards, 64% via swipe transactions - ðŸ“Œ Built customer segmentation model uncovering high-value cohorts - ðŸ“Œ Developed interactive Power BI dashboards with drill-through KPI analysis --- ### ðŸ¥ Hospital Emergency Room Analytics Dashboard > **Excel + Power Query** Operational analytics dashboard for monitoring ER patient flow and resource planning. - ðŸ“Œ Tracked peak admission windows, patient trends, and wait-time KPIs - ðŸ“Œ Built dynamic Pivot Table dashboards with slicers for real-time filtering - ðŸ“Œ Data cleaning pipeline ensured accuracy across 1,000s of patient records --- ### ðŸ›’ Customer Purchase Behavior Analysis > **Python (Pandas, NumPy)** EDA project uncovering demographic and regional purchase patterns from e-commerce data. - ðŸ“Œ Identified that **married women aged 26â€“35** from UP, Maharashtra & Karnataka show highest purchase intent - ðŸ“Œ Revealed top-performing categories: **Food, Clothing, Electronics** - ðŸ“Œ Delivered profession-based category preference breakdown for targeted marketing --- ### ðŸ“Š E-commerce Annual Sales Dashboard > **Advanced Excel** Revenue and customer analytics dashboard built for a retail business using Excel alone. - ðŸ“Œ Annual sales trend analysis with demographic & regional segmentation - ðŸ“Œ Interactive dashboard with Pivot Tables, slicers, and dynamic charts - ðŸ“Œ Actionable insights to guide sales and marketing strategy --- ### ðŸŽµ Digital Music Store Analysis > **SQL (PostgreSQL)** Complex multi-table query project analysing customer behaviour and sales performance. - ðŸ“Œ CTEs and Window Functions to rank top customers, tracks, and genres - ðŸ“Œ Surfaced revenue trends by region and customer lifetime value patterns --- ## ðŸ’¼ Work Experience ``` ðŸ¦ HDFC Bank â€” Officer, Sales Operations & Data Handling May 2025 â€“ Oct 2025 â””â”€ Sales data analysis Â· KYC/AML compliance Â· CRM data management Â· Lead conversion tracking ðŸ“ž Tech Mahindra â€” Associate, Customer Support (MIS & Reporting) Jan 2024 â€“ Mar 2025 â””â”€ MIS reporting Â· Excel data management Â· Trend analysis Â· 15% improvement in resolution efficiency ``` --- ## ðŸŽ“ Education & Certifications **B.Sc. Mathematics** â€” Dr. BR Ambedkar University, Agra *(2020â€“2023)* **Data Analytics with Gen AI** â€” PW Skills by Physics Wallah *(Sep 2025 â€“ Apr 2026)* 
-![NIELIT](https://img.shields.io/badge/O'_Level-NIELIT-2d6a4f?style=flat-square) ![Excel](https://img.shields.io/badge/Advanced_Excel-Certified-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Certified-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-Certified-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MIS](https://img.shields.io/badge/MIS_%26_Dashboard_Expert-Certified-0078d4?style=flat-square) --- ## ðŸ“ˆ GitHub Stats 
- 
---- 
- **ðŸ“ Noida, UP  Â·  ðŸ’¼ Open to Work  Â·  âœ‰ï¸ rajatkumar3w@gmail.com** *"I don't just build charts â€” I build clarity."* 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=120&section=header" width="100%"/>
+
+# 👋 Hi, I'm Rajat Kumar
+### Data Analyst | SQL • Power BI • Excel • Python
+
+**Transforming raw data into actionable business insights through analytics and visualization.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatkumar9it/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatkumar-analytics)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatkumar3w@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=rajatkumar-analytics&label=Profile%20Views&color=0F4C81&style=flat-square"/>
+
+</div>
+
+---
+
+# 💡 About Me
+
+📊 Data Analyst with **1.5+ years of experience** in Banking Operations, Sales Operations, MIS Reporting, and Customer Data Management.
+
+💼 Skilled in transforming raw data into meaningful insights through Excel, SQL, Power BI, and Python.
+
+🎓 Currently pursuing **Data Analytics with Gen AI** at PW Skills.
+
+🌍 Open to opportunities as:
+
+- Data Analyst
+- MIS Analyst
+- Business Intelligence Analyst
+- Reporting Analyst
+
+📍 Open to opportunities across India & UAE
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+</p>
+
+| Tools | Skills |
+|---------|---------|
+| 📈 Excel | Pivot Tables, Power Query, VLOOKUP, XLOOKUP, INDEX-MATCH |
+| 🛢 SQL | PostgreSQL, MySQL, Joins, CTEs, Window Functions |
+| 📊 Power BI | DAX, Data Modeling, KPI Dashboards |
+| 🐍 Python | Pandas, NumPy, EDA, Data Cleaning |
+
+---
+
+# 🚀 Featured Projects
+
+## 💳 Credit Card Financial & Customer Analytics Dashboard
+**SQL + Power BI**
+
+- Built an end-to-end analytics solution.
+- Analyzed customer behavior and revenue trends.
+- Identified key revenue drivers and high-value customer segments.
+- Created interactive KPI dashboards.
+
+🔗 Repository:
+https://github.com/rajatkumar-analytics
+
+---
+
+## 🏥 Hospital Emergency Room Analytics Dashboard
+**Excel + Power Query**
+
+- Analyzed patient trends and operational KPIs.
+- Developed interactive dashboards using Pivot Tables and slicers.
+- Supported healthcare resource planning.
+
+---
+
+## 🛒 Customer Purchase Behavior Analysis
+**Python**
+
+- Performed Exploratory Data Analysis.
+- Identified demographic and regional buying patterns.
+- Generated category-level insights.
+
+---
+
+## 📈 E-commerce Sales Analysis Dashboard
+**Advanced Excel**
+
+- Analyzed annual sales performance.
+- Built KPI dashboards and trend analysis reports.
+- Delivered actionable business insights.
+
+---
+
+# 💼 Professional Experience
+
+## Officer – Sales Operations & Data Handling
+### HDFC Bank | May 2025 – Oct 2025
+
+- Managed and analyzed sales data for banking products.
+- Performed KYC and AML verification.
+- Supported reporting and business decisions.
+- Maintained CRM datasets and lead insights.
+
+---
+
+## Associate – Customer Support (MIS & Data Reporting)
+### Tech Mahindra | Jan 2024 – Mar 2025
+
+- Managed customer datasets and reporting.
+- Improved workflow efficiency by 15%.
+- Analyzed trends and supported process improvements.
+
+---
+
+# 📜 Certifications
+
+🏆 Data Analytics with Gen AI – PW Skills
+
+🏆 O' Level Certification – NIELIT
+
+🏆 Advanced Excel
+
+🏆 SQL
+
+🏆 Power BI
+
+🏆 MIS & Dashboard Expert
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rajatkumar-analytics&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatkumar-analytics&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email: **rajatkumar3w@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/rajatkumar9it/
+
+🐙 GitHub:
+https://github.com/rajatkumar-analytics
+
+---
+
+<div align="center">
+
+### ⭐ Turning data into insights that drive business decisions
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=100&section=footer" width="100%"/>
+
+</div>
+```
