@@ -26,14 +26,13 @@
 
 💼 Skilled in transforming raw data into meaningful insights through Excel, SQL, Power BI, and Python.
 
-🎓 Currently pursuing **Data Analytics with Gen AI** at PW Skills.
-
 🌍 Open to opportunities as:
 
 - Data Analyst
 - MIS Analyst
 - Business Intelligence Analyst
 - Reporting Analyst
+- Operation Analyst
 
 📍 Open to opportunities across India & UAE
 
