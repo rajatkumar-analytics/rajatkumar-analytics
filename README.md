@@ -91,27 +91,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### Officer – Sales Operations & Data Handling
-**HDFC Bank** | May 2025 – Oct 2025
-
-- Managed and analyzed sales data for banking products
-- Performed KYC and AML verification for customer onboarding
-- Supported reporting and business decision-making processes
-- Maintained CRM datasets and generated lead insights
-
----
-
-### Associate – Customer Support (MIS & Data Reporting)
-**Tech Mahindra** | Jan 2024 – Mar 2025
-
-- Managed customer datasets and delivered regular MIS reports
-- Improved workflow efficiency by **15%** through process optimization
-- Analyzed trends and supported cross-functional process improvements
-
----
-
 ## 📜 Certifications
 
 | Certification | Issuer |
